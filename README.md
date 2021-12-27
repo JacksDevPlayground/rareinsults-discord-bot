@@ -1,7 +1,7 @@
 ## A simple Discord Bot for r/rareinsults written in Go
 
 The aim was to get posts from `r/rareinsults` and display them in Discord.
-Currently this gets the top 500 newest posts and is currently triggered by entering `!r`.   
+Currently this gets the top 500 newest posts and is triggered by entering `!r`.   
 
 ### 🚀 Quick start
 1. Clone Repo
@@ -23,4 +23,5 @@ go run .
 ### Screenshots
 
 ![Discord Post Embed](img/img.png)
+<br />
 **Figure: The embed post sent to Discord**

@@ -1,2 +1,2 @@
-worker: go run .
+worker: bin/rareinsults-discord-bot
 

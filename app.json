@@ -1,0 +1,22 @@
+{
+  "name": "A simple Discord Bot",
+  "description": "A simple Discord Bot for r/rareinsults written in Go",
+  "repository": "https://github.com/JacksDevPlayground/rareinsults-discord-bot",
+  "keywords": ["go", "discord", "reddit"],
+  "env": {
+    "TOKEN": {
+      "description": "Discord Bot Token",
+      "value": "Enter your Discord Bot Token here"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 0,
+      "size": "free"
+    },
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}

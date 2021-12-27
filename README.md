@@ -14,6 +14,10 @@ cd rareinsults-discord-bot/
 go run .
 ```
 
+### Heroku 
+Don't want to run it locally, Deploy it now with Heroku!
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JacksDevPlayground/rareinsults-discord-bot)
+
 
 ### Dependencies 
 - [Discordgo](https://github.com/bwmarrin/discordgo)

@@ -70,7 +70,6 @@ func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 		} else {
 			rand := len(cacheUsed)
 			cacheUsed = append(cacheUsed, rand)
-			fmt.Println(cacheUsed)
 			post := cache[rand]
 			s.ChannelMessageSendEmbed(m.ChannelID, createEmbed(post))
 		}

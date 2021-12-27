@@ -4,7 +4,7 @@
   "repository": "https://github.com/JacksDevPlayground/rareinsults-discord-bot",
   "keywords": ["go", "discord", "reddit"],
   "env": {
-    "TOKEN": {
+    "DISCORD_TOKEN": {
       "description": "Discord Bot Token",
       "value": "Enter your Discord Bot Token here"
     }

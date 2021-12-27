@@ -16,9 +16,9 @@ go run .
 
 
 ### Dependencies 
-- [Discordgo](github.com/bwmarrin/discordgo)
-- [Godotenv](github.com/joho/godotenv)
-- [Go-Reddit](github.com/vartanbeno/go-reddit/)
+- [Discordgo](https://github.com/bwmarrin/discordgo)
+- [Godotenv](https://github.com/joho/godotenv)
+- [Go-Reddit](https://github.com/vartanbeno/go-reddit/)
 
 ### Screenshots
 

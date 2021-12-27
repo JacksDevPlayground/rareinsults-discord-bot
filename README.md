@@ -16,6 +16,7 @@ go run .
 
 ### Heroku 
 Don't want to run it locally, Deploy it now with Heroku!
+<br />
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JacksDevPlayground/rareinsults-discord-bot)
 
 

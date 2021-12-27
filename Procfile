@@ -1,2 +1,2 @@
-worker: bin/rareinsults-discord-bot
+worker: bin\rareinsults-discord-bot.exe
 
